@@ -1,4 +1,4 @@
-package com.optum.srikanth.lyrics;
+package com.srikanth.lyrics;
 
 import java.util.Arrays;
 
